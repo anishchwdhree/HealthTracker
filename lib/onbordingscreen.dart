@@ -197,7 +197,7 @@ class OnboardingPage extends StatelessWidget {
   IconData _getIconForIndex(int index) {
     switch (index) {
       case 0:
-        return Icons.calendar_month;
+        return Icons.lock_outline;
       case 1:
         return Icons.pregnant_woman;
       case 2:
